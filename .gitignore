@@ -1,4 +1,4 @@
-# Python
+# Python, it won't track this list of files or push them to the repository
 __pycache__/
 *.pyc
 *.pyo
