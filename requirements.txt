@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+pypdf
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+pytest
+pandas
+numpy
