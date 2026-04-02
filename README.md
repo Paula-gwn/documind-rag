@@ -13,3 +13,18 @@ DocuMind is an end-to-end AI application that allows users to upload documents, 
 
 ## Tech Stack
 Python, LangChain, Sentence Transformers, FAISS, FastAPI, Streamlit, Docker, Pytest
+
+## Project Structure
+
+```bash
+documind-rag/
+├── app/          # Streamlit frontend
+├── api/          # FastAPI backend
+├── data/         # Sample documents
+├── notebooks/    # Experiments and evaluation
+├── src/          # Core ingestion, preprocessing, retrieval, generation
+├── tests/        # Unit tests
+├── Dockerfile
+├── README.md
+├── requirements.txt
+└── run.py
